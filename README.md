@@ -1,1 +1,1 @@
-# sturdy-octo-garbanzo
+# a tutorial for repository
